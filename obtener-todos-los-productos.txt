@@ -1,1 +1,3 @@
 Funcion para obtener todos los productos
+
+Actualizacion: hacer un ciclo for que recorra todos los productos y vaya preguntando uno por uno cual deseas cambiar
