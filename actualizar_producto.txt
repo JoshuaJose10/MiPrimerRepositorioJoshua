@@ -1,1 +1,3 @@
 Funcion de actualizar producto.
+
+Actualize la funcion de actualizar los productos.
